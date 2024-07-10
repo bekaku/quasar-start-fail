@@ -1,0 +1,1 @@
+export const PrefixKey = '_gd5_';
